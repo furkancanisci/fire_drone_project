@@ -1,0 +1,14 @@
+PyQt5
+python-socketio
+websockets
+folium
+psycopg2-binary
+SQLAlchemy
+geopandas
+tensorflow
+opencv-python
+python-socketio
+websockets
+PyQt5
+PyQtWebEngine
+folium
