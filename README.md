@@ -4,6 +4,8 @@
 
 Hydro-Ring is an advanced autonomous UAV platform designed for rapid-response wildfire suppression. Unlike traditional firefighting drones that carry water as an external payload, Hydro-Ring integrates its water reservoir directly into its **toroidal body structure**, dramatically improving aerodynamic stability, maneuverability, and endurance.
 
+<img width="645" height="449" alt="Ekran Resmi 2025-12-06 14 14 39" src="https://github.com/user-attachments/assets/d48b5251-d9c6-4adb-a32a-8701e081c769" />
+
 ---
 
 # 📘 **1. Introduction**
